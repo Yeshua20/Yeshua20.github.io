@@ -1,0 +1,12 @@
+body{
+    color: black;
+    text-align: center;
+    
+    background-image: url(file:///C:/Users/25194/Downloads/eberhard-grossgasteiger-hpOcJBsdw2c-unsplash.jpg);
+    background-size: cover;
+}
+
+form {
+    display: inline-block;
+    border: px solid black;
+}
